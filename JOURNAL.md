@@ -80,8 +80,6 @@ custom 4-channel audio amplifier PCB. This would allow:
 - Better speaker quality than built-in solutions
 - Shows custom PCB design skills for Blueprint
 
-Even though I'll probably only use 1 speaker daily, designing the full 
-4-channel system demonstrates engineering complexity.
 
 NEXT STEPS:
 1. Learn EasyEDA for PCB design
